@@ -1,0 +1,8 @@
+
+# ignore data files
+/images
+articles.csv
+customers.csv
+sample_submission.csv
+submissions.csv
+transactions_train.csv
